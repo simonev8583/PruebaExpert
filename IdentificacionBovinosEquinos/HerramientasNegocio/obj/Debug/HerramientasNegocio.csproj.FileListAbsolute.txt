@@ -1,0 +1,6 @@
+C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\HerramientasNegocio\bin\Debug\HerramientasNegocio.dll
+C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\HerramientasNegocio\bin\Debug\HerramientasNegocio.pdb
+C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\HerramientasNegocio\obj\Debug\HerramientasNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\HerramientasNegocio\obj\Debug\HerramientasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\HerramientasNegocio\obj\Debug\HerramientasNegocio.dll
+C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\HerramientasNegocio\obj\Debug\HerramientasNegocio.pdb

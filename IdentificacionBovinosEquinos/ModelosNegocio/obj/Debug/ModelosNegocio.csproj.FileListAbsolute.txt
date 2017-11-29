@@ -1,0 +1,6 @@
+C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\ModelosNegocio\bin\Debug\ModelosNegocio.dll
+C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\ModelosNegocio\bin\Debug\ModelosNegocio.pdb
+C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\ModelosNegocio\obj\Debug\ModelosNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\ModelosNegocio\obj\Debug\ModelosNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\ModelosNegocio\obj\Debug\ModelosNegocio.dll
+C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\ModelosNegocio\obj\Debug\ModelosNegocio.pdb
