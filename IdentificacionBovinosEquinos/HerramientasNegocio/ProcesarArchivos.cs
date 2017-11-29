@@ -12,7 +12,7 @@ namespace HerramientasNegocio
         public void CrearArchivoTxt(string nombreArchivo,string nombrePesebrera, List<string> datos)
         {
             using (System.IO.StreamWriter file =
-            new System.IO.StreamWriter(@"C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\Archivos\" + nombrePesebrera+nombreArchivo + ".txt"))
+            new System.IO.StreamWriter(@"C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Archivos\" + nombrePesebrera+nombreArchivo + ".txt"))
             {
                 foreach (string dato in datos)
                 {

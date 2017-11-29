@@ -14,14 +14,14 @@ namespace Principal
     class ClasificacionANimales
     {
         static void Main(string[] args)
-        {         
+        {
             LeerArchivos leer = new LeerArchivos();
             // Se debe cambiar la ruta del archivo y en la capa HerramientasNegocio-> clase Procesar Archivo cambiar la direccion para guardar el archivo 
-            List<string> datos = leer.LeerArchivoDat("C:/Users/Simone Villa/Documents/Visual Studio 2017/Projects/IdentificacionBovinosEquinos/Archivos/EQUNOSBOVINOS.DAT");
+            List<string> datos = leer.LeerArchivoDat("C:/Users/Simone Villa/Source/Repos/PruebaExpert/IdentificacionBovinosEquinos/Archivos/EQUNOSBOVINOS.DAT");
 
             // Para clasificar los animales se debe enviar el ArrayList datos
             LogicaNAnimal LogicaNanimal = new LogicaNAnimal();
-            List<Animal> animales=LogicaNanimal.ClasificarAnimales(datos);
+            List<Animal> animales = LogicaNanimal.ClasificarAnimales(datos);
             // Las listas de datos que debemos mandar a los metodos que clasifican a los animales deben ser de tipo string
             // dentro de los metodos se realiza la conversion en animales y su respectiva categoria
             // DATOS PARA OTRO TIPO DE PRUEBA
@@ -40,8 +40,8 @@ namespace Principal
             // Clasificar animales permite clasificar en categorias ('Bovino' y 'Equino') los animales de una pesebrera
             LNpesebrera.ClasificarAnimales(pesebrera1);
 
-            
+
         }
-        
+
     }
 }

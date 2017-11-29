@@ -1,5 +1,13 @@
-C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\Principal\bin\Debug\Principal.dll
-C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\Principal\bin\Debug\Principal.pdb
-C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
-C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\Principal\obj\Debug\Principal.dll
-C:\Users\Simone Villa\Documents\Visual Studio 2017\Projects\IdentificacionBovinosEquinos\Principal\obj\Debug\Principal.pdb
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\bin\Debug\Principal.exe.config
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\bin\Debug\Principal.exe
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\bin\Debug\Principal.pdb
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\bin\Debug\HerramientasNegocio.dll
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\bin\Debug\LogicaNegocio.dll
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\bin\Debug\ModelosNegocio.dll
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\bin\Debug\HerramientasNegocio.pdb
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\bin\Debug\LogicaNegocio.pdb
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\bin\Debug\ModelosNegocio.pdb
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\obj\Debug\Principal.exe
+C:\Users\Simone Villa\Source\Repos\PruebaExpert\IdentificacionBovinosEquinos\Principal\obj\Debug\Principal.pdb
